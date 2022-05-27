@@ -1,1 +1,1 @@
-groups are fun
+group are fun
